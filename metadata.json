@@ -1,0 +1,5 @@
+{
+  "name": "Visual Director AI",
+  "description": "An AI-powered visual customization director that plans and executes image edits while preserving identity.",
+  "requestFramePermissions": []
+}
